@@ -4,7 +4,7 @@
   "description": "Bot que eu fiz para testar comandos enquanto o principal está ativo.",
   "main": "app.js",
   "scripts": {
-    "start": "cls && npm i && node slashBuilder.js && nodemon app.js"
+    "start": "cls && npm update && node slashBuilder.js && nodemon app.js"
   },
   "keywords": [],
   "author": "",
